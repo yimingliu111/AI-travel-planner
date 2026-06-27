@@ -73,7 +73,3 @@ pytest test_tools.py -v
                       ├── 流式输出 (stream=True)
                       └── 用户隔离 (每人独立 history + API Key)
 ```
-
-## License
-
-MIT
